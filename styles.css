@@ -26,8 +26,6 @@ nav {
 
 nav ul {
 
-    color: #ddb945;
-
     font-size: large;
 
     font-weight: bold;
@@ -41,7 +39,6 @@ nav ul {
 }
 
 nav li{
-    color: #ddb945;
     
     text-align: center;
 
