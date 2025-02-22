@@ -51,9 +51,8 @@ nav li{
 }
 
 nav a {
-
-text-decoration: none;
-
+    color: #cfb991;
+    text-decoration: none;
 }
 
 nav a:visited {
